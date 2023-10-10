@@ -60,9 +60,9 @@ main{
     flex-direction: column;
     gap: 20px;
 }
-/*nput[type="range"]{
-    background-color: white;
-}*/
+input[type="range"]{
+    accent-color: #333;
+}
 footer{
     text-align: center;
     font-size: x-large;
